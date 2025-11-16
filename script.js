@@ -1,4 +1,4 @@
-const apiBase = 'api';
+const apiBase = 'https://heeled-kyndall-unusefully.ngrok-free.dev/tani-pintar';
 let chart;
 let chartReady = false;
 
@@ -19,7 +19,7 @@ function refreshAll() {
 
 // === DATA TERAKHIR ===
 function fetchLatestData() {
-    fetch(`${apiBase}/get_data.php`)
+    fetch("https://heeled-kyndall-unusefully.ngrok-free.dev/tani-pintar/get_control.php")
         .then(r => r.json())
         .then(res => {
             if (res.status === 'OK') {
@@ -157,3 +157,4 @@ function toggleClass(el, cls, on) {
     if (on) el.classList.add(cls);
     else el.classList.remove(cls);
 }
+
