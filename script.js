@@ -11,15 +11,20 @@ document.addEventListener('DOMContentLoaded', () => {
     setInterval(fetchControlState, 5000);
 });
 
+// ================================
+// REFRESH SEMUA
+// ================================
 function refreshAll() {
     fetchLatestData();
     fetchChartData();
     fetchControlState();
 }
 
-// === DATA TERAKHIR ===
+// ================================
+// DATA TERAKHIR (sensor)
+// ================================
 function fetchLatestData() {
-    fetch("https://heeled-kyndall-unusefully.ngrok-free.dev/tani-pintar/get_control.php")
+    fetch(`${apiBase}/get_data.php`)
         .then(r => r.json())
         .then(res => {
             if (res.status === 'OK') {
@@ -38,23 +43,27 @@ function fetchLatestData() {
         .catch(console.error);
 }
 
-// === DATA GRAFIK ===
+// ================================
+// DATA GRAFIK
+// ================================
 function fetchChartData() {
     fetch(`${apiBase}/get_chart_data.php`)
         .then(r => r.json())
         .then(res => {
             if (res.status !== 'OK') return;
+
             const rows = res.data || [];
             if (rows.length === 0) return;
 
             const labels = rows.map(r => (r.created_at || '').slice(11, 16));
-            const temps = rows.map(r => r.temperature);
-            const hums  = rows.map(r => r.humidity);
-            const gases = rows.map(r => r.gas);
-            const phs   = rows.map(r => r.ph);
+            const temps  = rows.map(r => r.temperature);
+            const hums   = rows.map(r => r.humidity);
+            const gases  = rows.map(r => r.gas);
+            const phs    = rows.map(r => r.ph);
 
             if (!chartReady) {
                 const ctx = document.getElementById('sensorChart').getContext('2d');
+
                 chart = new Chart(ctx, {
                     type: 'line',
                     data: {
@@ -69,21 +78,17 @@ function fetchChartData() {
                     options: {
                         responsive: true,
                         scales: {
-                            x: {
-                                ticks: { color: '#9ca3af', maxTicksLimit: 6 }
-                            },
-                            y: {
-                                ticks: { color: '#9ca3af' }
-                            }
+                            x: { ticks: { color: '#9ca3af', maxTicksLimit: 6 }},
+                            y: { ticks: { color: '#9ca3af' }}
                         },
                         plugins: {
-                            legend: {
-                                labels: { color: '#e5e7eb', font: { size: 9 } }
-                            }
+                            legend: { labels: { color: '#e5e7eb', font: { size: 9 }}}
                         }
                     }
                 });
+
                 chartReady = true;
+
             } else {
                 chart.data.labels = labels;
                 chart.data.datasets[0].data = temps;
@@ -96,7 +101,9 @@ function fetchChartData() {
         .catch(console.error);
 }
 
-// === CONTROL STATE ===
+// ================================
+// AMBIL STATUS CONTROL (fan + aerator)
+// ================================
 function fetchControlState() {
     fetch(`${apiBase}/get_control.php`)
         .then(r => r.json())
@@ -108,6 +115,9 @@ function fetchControlState() {
         .catch(console.error);
 }
 
+// ================================
+// SWITCH HANDLER (klik tombol)
+// ================================
 function initSwitchHandlers() {
     const fanSwitch = document.getElementById('fan-switch');
     const aerSwitch = document.getElementById('aerator-switch');
@@ -123,6 +133,9 @@ function initSwitchHandlers() {
     });
 }
 
+// ================================
+// UPDATE STATUS CONTROL (POST)
+// ================================
 function updateControl(payload) {
     const formData = new FormData();
     if (payload.fan !== undefined) formData.append('fan', payload.fan);
@@ -141,12 +154,17 @@ function updateControl(payload) {
         .catch(console.error);
 }
 
+// ================================
+// UPDATE UI SWITCHES
+// ================================
 function applyControlState(fan, aerator) {
-    toggleClass(document.getElementById('fan-switch'), 'active', fan === 1);
-    toggleClass(document.getElementById('aerator-switch'), 'active', aerator === 1);
+    toggleClass(document.getElementById('fan-switch'), 'active', fan == 1);
+    toggleClass(document.getElementById('aerator-switch'), 'active', aerator == 1);
 }
 
-// util kecil
+// ================================
+// UTIL FUNGI
+// ================================
 function setText(id, text) {
     const el = document.getElementById(id);
     if (el) el.textContent = text;
