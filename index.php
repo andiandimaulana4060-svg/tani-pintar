@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Tani-Pintar | Smart Farming Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<div class="dashboard">
+    <div class="header">
+        <div class="title-block">
+            <div class="badge">
+                <div class="realtime-dot"></div>
+                Realtime Smart Farming Monitor
+            </div>
+            <h1>Tani-Pintar</h1>
+            <p>
+                Pemantauan suhu, kelembaban, gas, dan pH secara langsung dengan kendali manual fan dan aerator.
+                ESP32 terhubung ke Laragon & ThingSpeak tanpa database SQL.
+            </p>
+        </div>
+        <div class="header-right">
+            <span class="small-label">Mode: Manual • ESP32 • File-based API</span>
+            <div class="chip">Log lokal JSON + Kirim ke ThingSpeak</div>
+        </div>
+    </div>
+
+    <div class="grid">
+        <div>
+            <div class="sensor-cards">
+                <div class="card">
+                    <div class="card-label">Suhu</div>
+                    <div class="card-value">
+                        <span id="temp-value">--</span>
+                        <span class="card-unit">°C</span>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-label">Kelembaban</div>
+                    <div class="card-value">
+                        <span id="hum-value">--</span>
+                        <span class="card-unit">%</span>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-label">Gas</div>
+                    <div class="card-value">
+                        <span id="gas-value">--</span>
+                        <span class="card-unit">ppm</span>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-label">pH Larutan</div>
+                    <div class="card-value">
+                        <span id="ph-value">--</span>
+                        <span class="card-unit">pH</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="control-panel">
+                <div class="control-header">
+                    <h2>Panel Kontrol Manual</h2>
+                    <span>Atur langsung dari web, ESP32 membaca status untuk mengendalikan relay.</span>
+                </div>
+                <div class="switch-group">
+                    <div id="fan-switch" class="switch">
+                        <div class="switch-label">
+                            <strong>Fan</strong>
+                            <span>Sirkulasi udara</span>
+                        </div>
+                        <div class="toggle">
+                            <div class="toggle-circle"></div>
+                        </div>
+                    </div>
+                    <div id="aerator-switch" class="switch">
+                        <div class="switch-label">
+                            <strong>Aerator</strong>
+                            <span>Oksigenasi air</span>
+                        </div>
+                        <div class="toggle">
+                            <div class="toggle-circle"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chart-wrapper">
+                <h3>Riwayat Sensor (disimpan di file JSON & dikirim ke ThingSpeak)</h3>
+                <canvas id="sensorChart" height="120"></canvas>
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <div class="info-box">
+                <strong>Skema Integrasi</strong>
+                <p>
+                    ESP32 → <code>/api/post_data.php</code> (HTTP POST) mengirim suhu, kelembaban, gas, dan pH.
+                    File JSON menyimpan log, dan data bisa dikirim ke ThingSpeak sebagai backup cloud.
+                </p>
+            </div>
+            <div class="info-box">
+                <strong>Kendali Relay</strong>
+                <p>
+                    Status fan & aerator disimpan di <code>control.json</code>.
+                    Dashboard mengubah nilai tersebut via <code>update_control.php</code>,
+                    dan ESP32 membaca status terbaru melalui <code>get_control.php</code>.
+                </p>
+            </div>
+            <div class="info-box">
+                <strong>Konfigurasi Praktis</strong>
+                <ul>
+                    <li>Letakkan folder ini di <code>laragon/www/tani-pintar</code>.</li>
+                    <li>Akses: <code>http://localhost/tani-pintar</code></li>
+                    <li>Pastikan ekstensi cURL aktif untuk kirim ke ThingSpeak.</li>
+                    <li>ESP32 & PC harus satu jaringan.</li>
+                </ul>
+                <span class="badge-channel">Edit API Key di <code>api/post_data.php</code></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="assets/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,2102 @@
+[
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 942,
+        "ph": 5.32,
+        "created_at": "2025-11-11 22:00:34"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 996,
+        "ph": 5.57,
+        "created_at": "2025-11-11 22:00:40"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 931,
+        "ph": 5.38,
+        "created_at": "2025-11-11 22:00:48"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 913,
+        "ph": 5.82,
+        "created_at": "2025-11-11 22:00:55"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 911,
+        "ph": 5.36,
+        "created_at": "2025-11-11 22:01:01"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 848,
+        "ph": 5.78,
+        "created_at": "2025-11-11 22:01:05"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1151,
+        "ph": 5.67,
+        "created_at": "2025-11-11 22:01:11"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1150,
+        "ph": 5.29,
+        "created_at": "2025-11-11 22:01:20"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1146,
+        "ph": 5.26,
+        "created_at": "2025-11-11 22:01:25"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 901,
+        "ph": 5.73,
+        "created_at": "2025-11-11 22:01:30"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1071,
+        "ph": 5.7,
+        "created_at": "2025-11-11 22:01:36"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 894,
+        "ph": 5.41,
+        "created_at": "2025-11-11 22:01:40"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1453,
+        "ph": 5.69,
+        "created_at": "2025-11-11 22:01:49"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1121,
+        "ph": 5.37,
+        "created_at": "2025-11-11 22:01:51"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1103,
+        "ph": 5.46,
+        "created_at": "2025-11-11 22:01:56"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1039,
+        "ph": 5.42,
+        "created_at": "2025-11-11 22:02:01"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 2490,
+        "ph": 5.6,
+        "created_at": "2025-11-11 22:02:11"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1930,
+        "ph": 5.24,
+        "created_at": "2025-11-11 22:02:18"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1872,
+        "ph": 5.71,
+        "created_at": "2025-11-11 22:02:32"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 0,
+        "ph": 5.06,
+        "created_at": "2025-11-11 22:02:56"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 0,
+        "ph": 4.9,
+        "created_at": "2025-11-11 22:02:59"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 0,
+        "ph": 4.94,
+        "created_at": "2025-11-11 22:03:05"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 159,
+        "ph": 5.47,
+        "created_at": "2025-11-11 22:03:09"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 250,
+        "ph": 5.17,
+        "created_at": "2025-11-11 22:03:15"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 345,
+        "ph": 5.14,
+        "created_at": "2025-11-11 22:03:30"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 320,
+        "ph": 4.2,
+        "created_at": "2025-11-11 22:03:35"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 364,
+        "ph": 5.85,
+        "created_at": "2025-11-11 22:03:49"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 354,
+        "ph": 4.61,
+        "created_at": "2025-11-11 22:03:53"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 364,
+        "ph": 5.69,
+        "created_at": "2025-11-11 22:04:05"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 366,
+        "ph": 5.54,
+        "created_at": "2025-11-11 22:04:12"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 464,
+        "ph": 5.82,
+        "created_at": "2025-11-11 22:04:17"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 816,
+        "ph": 5.79,
+        "created_at": "2025-11-11 22:04:29"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 785,
+        "ph": 5.6,
+        "created_at": "2025-11-11 22:04:34"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 749,
+        "ph": 5.3,
+        "created_at": "2025-11-11 22:04:41"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 707,
+        "ph": 5.15,
+        "created_at": "2025-11-11 22:04:52"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 679,
+        "ph": 5.3,
+        "created_at": "2025-11-11 22:04:53"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 657,
+        "ph": 5.05,
+        "created_at": "2025-11-11 22:05:01"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 634,
+        "ph": 5.51,
+        "created_at": "2025-11-11 22:05:04"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 614,
+        "ph": 5.18,
+        "created_at": "2025-11-11 22:05:10"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 595,
+        "ph": 5.14,
+        "created_at": "2025-11-11 22:05:15"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 689,
+        "ph": 5.28,
+        "created_at": "2025-11-11 22:05:20"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 4095,
+        "ph": 5.31,
+        "created_at": "2025-11-11 22:05:25"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 4095,
+        "ph": 5.32,
+        "created_at": "2025-11-11 22:05:30"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 4095,
+        "ph": 5.37,
+        "created_at": "2025-11-11 22:05:35"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 4095,
+        "ph": 5.38,
+        "created_at": "2025-11-11 22:05:53"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1170,
+        "ph": 5.29,
+        "created_at": "2025-11-11 22:05:59"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1246,
+        "ph": 5.18,
+        "created_at": "2025-11-11 22:06:04"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1504,
+        "ph": 5.18,
+        "created_at": "2025-11-11 22:06:09"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 2468,
+        "ph": 5.05,
+        "created_at": "2025-11-11 22:06:14"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 2208,
+        "ph": 5.07,
+        "created_at": "2025-11-11 22:06:20"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 4095,
+        "ph": 5.08,
+        "created_at": "2025-11-11 22:06:24"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 364,
+        "ph": 5.15,
+        "created_at": "2025-11-11 22:06:29"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 75,
+        "ph": 5.27,
+        "created_at": "2025-11-11 22:06:35"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 391,
+        "ph": 5.11,
+        "created_at": "2025-11-11 22:06:40"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 346,
+        "ph": 5.41,
+        "created_at": "2025-11-11 22:06:46"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 403,
+        "ph": 4.87,
+        "created_at": "2025-11-11 22:06:51"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 455,
+        "ph": 5.36,
+        "created_at": "2025-11-11 22:06:57"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 473,
+        "ph": 4.91,
+        "created_at": "2025-11-11 22:07:03"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 484,
+        "ph": 5.17,
+        "created_at": "2025-11-11 22:07:07"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 474,
+        "ph": 4.92,
+        "created_at": "2025-11-11 22:07:14"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 542,
+        "ph": 5.28,
+        "created_at": "2025-11-11 22:07:20"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 658,
+        "ph": 5.14,
+        "created_at": "2025-11-11 22:07:25"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 689,
+        "ph": 5.25,
+        "created_at": "2025-11-11 22:07:30"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 662,
+        "ph": 5.42,
+        "created_at": "2025-11-11 22:07:35"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 691,
+        "ph": 5.14,
+        "created_at": "2025-11-11 22:07:41"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 665,
+        "ph": 5.18,
+        "created_at": "2025-11-11 22:07:46"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 727,
+        "ph": 5.22,
+        "created_at": "2025-11-11 22:07:52"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 667,
+        "ph": 5.14,
+        "created_at": "2025-11-11 22:08:12"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 432,
+        "ph": 5.37,
+        "created_at": "2025-11-11 22:08:16"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 473,
+        "ph": 5.28,
+        "created_at": "2025-11-11 22:08:20"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 526,
+        "ph": 5.13,
+        "created_at": "2025-11-11 22:08:28"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 531,
+        "ph": 4.51,
+        "created_at": "2025-11-11 22:08:32"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 547,
+        "ph": 4.84,
+        "created_at": "2025-11-11 22:08:40"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 526,
+        "ph": 4.33,
+        "created_at": "2025-11-11 22:08:52"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 192,
+        "ph": 5.1,
+        "created_at": "2025-11-11 22:08:57"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 418,
+        "ph": 4.95,
+        "created_at": "2025-11-11 22:09:06"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 535,
+        "ph": 5.15,
+        "created_at": "2025-11-11 22:09:11"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 507,
+        "ph": 5.2,
+        "created_at": "2025-11-11 22:09:16"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 4095,
+        "ph": 4.67,
+        "created_at": "2025-11-11 22:09:21"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 304,
+        "ph": 4.44,
+        "created_at": "2025-11-11 22:09:27"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 411,
+        "ph": 4.2,
+        "created_at": "2025-11-11 22:09:32"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 448,
+        "ph": 4.41,
+        "created_at": "2025-11-11 22:09:37"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 443,
+        "ph": 4.84,
+        "created_at": "2025-11-11 22:09:42"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 489,
+        "ph": 5.09,
+        "created_at": "2025-11-11 22:09:48"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 448,
+        "ph": 4.78,
+        "created_at": "2025-11-11 22:09:52"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 557,
+        "ph": 4.43,
+        "created_at": "2025-11-11 22:09:58"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 473,
+        "ph": 5.13,
+        "created_at": "2025-11-11 22:10:03"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 481,
+        "ph": 4.74,
+        "created_at": "2025-11-11 22:10:09"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 511,
+        "ph": 4.6,
+        "created_at": "2025-11-11 22:10:14"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 489,
+        "ph": 4.61,
+        "created_at": "2025-11-11 22:10:20"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 487,
+        "ph": 5.15,
+        "created_at": "2025-11-11 22:10:25"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 471,
+        "ph": 4.74,
+        "created_at": "2025-11-11 22:10:31"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 463,
+        "ph": 4.21,
+        "created_at": "2025-11-11 22:10:41"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 454,
+        "ph": 4.31,
+        "created_at": "2025-11-11 22:10:48"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 451,
+        "ph": 4.25,
+        "created_at": "2025-11-11 22:11:02"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 416,
+        "ph": 4.3,
+        "created_at": "2025-11-11 22:11:21"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 413,
+        "ph": 5.21,
+        "created_at": "2025-11-11 22:11:24"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 404,
+        "ph": 4.84,
+        "created_at": "2025-11-11 22:11:29"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 400,
+        "ph": 4.91,
+        "created_at": "2025-11-11 22:11:37"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 400,
+        "ph": 4.88,
+        "created_at": "2025-11-11 22:11:43"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 393,
+        "ph": 5.13,
+        "created_at": "2025-11-11 22:11:48"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 393,
+        "ph": 4.23,
+        "created_at": "2025-11-11 22:11:53"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 387,
+        "ph": 4.93,
+        "created_at": "2025-11-11 22:11:58"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 385,
+        "ph": 4.43,
+        "created_at": "2025-11-11 22:12:02"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 383,
+        "ph": 4.93,
+        "created_at": "2025-11-11 22:12:07"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 381,
+        "ph": 4.48,
+        "created_at": "2025-11-11 22:12:13"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 376,
+        "ph": 4.86,
+        "created_at": "2025-11-11 22:12:19"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 370,
+        "ph": 4.57,
+        "created_at": "2025-11-11 22:12:24"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 368,
+        "ph": 4.91,
+        "created_at": "2025-11-11 22:12:28"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 370,
+        "ph": 4.42,
+        "created_at": "2025-11-11 22:12:36"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 370,
+        "ph": 5,
+        "created_at": "2025-11-11 22:12:45"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 368,
+        "ph": 4.87,
+        "created_at": "2025-11-11 22:12:51"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 374,
+        "ph": 4.63,
+        "created_at": "2025-11-11 22:12:57"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 391,
+        "ph": 4.97,
+        "created_at": "2025-11-11 22:13:08"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 426,
+        "ph": 4.94,
+        "created_at": "2025-11-11 22:13:10"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 429,
+        "ph": 4.45,
+        "created_at": "2025-11-11 22:13:15"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 425,
+        "ph": 4.25,
+        "created_at": "2025-11-11 22:13:19"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 419,
+        "ph": 4.64,
+        "created_at": "2025-11-11 22:13:25"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 419,
+        "ph": 5.24,
+        "created_at": "2025-11-11 22:13:31"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 416,
+        "ph": 4.98,
+        "created_at": "2025-11-11 22:13:35"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 416,
+        "ph": 4.86,
+        "created_at": "2025-11-11 22:13:41"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 415,
+        "ph": 4.52,
+        "created_at": "2025-11-11 22:13:47"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 406,
+        "ph": 4.22,
+        "created_at": "2025-11-11 22:13:55"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 403,
+        "ph": 5.01,
+        "created_at": "2025-11-11 22:13:57"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 401,
+        "ph": 5.11,
+        "created_at": "2025-11-11 22:14:02"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 401,
+        "ph": 4.72,
+        "created_at": "2025-11-11 22:14:08"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 401,
+        "ph": 4.68,
+        "created_at": "2025-11-11 22:14:13"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 400,
+        "ph": 4.71,
+        "created_at": "2025-11-11 22:14:20"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 399,
+        "ph": 4.2,
+        "created_at": "2025-11-11 22:14:27"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 396,
+        "ph": 4.62,
+        "created_at": "2025-11-11 22:14:32"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 395,
+        "ph": 5.14,
+        "created_at": "2025-11-11 22:14:38"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 399,
+        "ph": 4.2,
+        "created_at": "2025-11-11 22:14:46"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 369,
+        "ph": 5.05,
+        "created_at": "2025-11-11 22:14:55"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 368,
+        "ph": 4.43,
+        "created_at": "2025-11-11 22:14:58"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 371,
+        "ph": 4.51,
+        "created_at": "2025-11-11 22:15:03"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 368,
+        "ph": 5.15,
+        "created_at": "2025-11-11 22:15:17"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 368,
+        "ph": 4.27,
+        "created_at": "2025-11-11 22:15:22"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 366,
+        "ph": 5.14,
+        "created_at": "2025-11-11 22:15:27"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 366,
+        "ph": 4.23,
+        "created_at": "2025-11-11 22:15:31"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 365,
+        "ph": 4.74,
+        "created_at": "2025-11-11 22:15:47"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 358,
+        "ph": 4.9,
+        "created_at": "2025-11-11 22:15:53"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 398,
+        "ph": 5.51,
+        "created_at": "2025-11-11 22:16:03"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 417,
+        "ph": 5.15,
+        "created_at": "2025-11-11 22:16:08"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 429,
+        "ph": 4.6,
+        "created_at": "2025-11-11 22:16:13"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 435,
+        "ph": 4.81,
+        "created_at": "2025-11-11 22:16:18"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 438,
+        "ph": 4.4,
+        "created_at": "2025-11-11 22:16:24"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 434,
+        "ph": 4.31,
+        "created_at": "2025-11-11 22:16:31"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 442,
+        "ph": 4.51,
+        "created_at": "2025-11-11 22:16:34"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 445,
+        "ph": 4.69,
+        "created_at": "2025-11-11 22:16:41"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 445,
+        "ph": 4.78,
+        "created_at": "2025-11-11 22:16:45"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 444,
+        "ph": 4.5,
+        "created_at": "2025-11-11 22:16:51"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 445,
+        "ph": 5.02,
+        "created_at": "2025-11-11 22:16:59"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 441,
+        "ph": 4.39,
+        "created_at": "2025-11-11 22:17:02"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 447,
+        "ph": 4.23,
+        "created_at": "2025-11-11 22:17:08"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 446,
+        "ph": 5.08,
+        "created_at": "2025-11-11 22:17:14"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 448,
+        "ph": 4.97,
+        "created_at": "2025-11-11 22:17:18"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 448,
+        "ph": 4.69,
+        "created_at": "2025-11-11 22:17:24"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 448,
+        "ph": 4.22,
+        "created_at": "2025-11-11 22:17:30"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 447,
+        "ph": 4.51,
+        "created_at": "2025-11-11 22:17:35"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 463,
+        "ph": 4.98,
+        "created_at": "2025-11-11 22:17:42"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 461,
+        "ph": 4.87,
+        "created_at": "2025-11-11 22:17:45"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 461,
+        "ph": 4.42,
+        "created_at": "2025-11-11 22:17:50"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 462,
+        "ph": 4.54,
+        "created_at": "2025-11-11 22:17:55"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 461,
+        "ph": 5.05,
+        "created_at": "2025-11-11 22:18:01"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 464,
+        "ph": 4.47,
+        "created_at": "2025-11-11 22:18:05"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 462,
+        "ph": 4.96,
+        "created_at": "2025-11-11 22:18:10"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 463,
+        "ph": 4.99,
+        "created_at": "2025-11-11 22:18:16"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 462,
+        "ph": 4.2,
+        "created_at": "2025-11-11 22:18:21"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 464,
+        "ph": 5.07,
+        "created_at": "2025-11-11 22:18:28"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 461,
+        "ph": 5.04,
+        "created_at": "2025-11-11 22:18:32"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 463,
+        "ph": 4.54,
+        "created_at": "2025-11-11 22:18:49"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 382,
+        "ph": 4.66,
+        "created_at": "2025-11-11 22:19:03"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 365,
+        "ph": 4.96,
+        "created_at": "2025-11-11 22:19:04"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 364,
+        "ph": 4.74,
+        "created_at": "2025-11-11 22:19:11"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 363,
+        "ph": 4.85,
+        "created_at": "2025-11-11 22:19:19"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 358,
+        "ph": 4.62,
+        "created_at": "2025-11-11 22:19:23"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 361,
+        "ph": 4.79,
+        "created_at": "2025-11-11 22:19:28"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 375,
+        "ph": 4.47,
+        "created_at": "2025-11-11 22:19:35"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 368,
+        "ph": 4.69,
+        "created_at": "2025-11-11 22:19:40"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 371,
+        "ph": 5.39,
+        "created_at": "2025-11-11 22:19:46"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 376,
+        "ph": 4.74,
+        "created_at": "2025-11-11 22:20:09"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 379,
+        "ph": 4.85,
+        "created_at": "2025-11-11 22:20:14"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 371,
+        "ph": 4.97,
+        "created_at": "2025-11-11 22:20:24"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 380,
+        "ph": 4.27,
+        "created_at": "2025-11-11 22:20:28"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 389,
+        "ph": 5.15,
+        "created_at": "2025-11-11 22:20:38"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 391,
+        "ph": 5.02,
+        "created_at": "2025-11-11 22:20:41"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 377,
+        "ph": 5.18,
+        "created_at": "2025-11-11 22:20:48"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 371,
+        "ph": 4.7,
+        "created_at": "2025-11-11 22:20:53"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 371,
+        "ph": 4.97,
+        "created_at": "2025-11-11 22:20:59"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 375,
+        "ph": 4.63,
+        "created_at": "2025-11-11 22:21:07"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 377,
+        "ph": 5.11,
+        "created_at": "2025-11-11 22:21:12"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 379,
+        "ph": 4.6,
+        "created_at": "2025-11-11 22:21:18"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 386,
+        "ph": 4.23,
+        "created_at": "2025-11-11 22:21:23"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 375,
+        "ph": 4.37,
+        "created_at": "2025-11-11 22:21:28"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 370,
+        "ph": 4.59,
+        "created_at": "2025-11-11 22:21:35"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 403,
+        "ph": 4.27,
+        "created_at": "2025-11-11 22:22:02"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 411,
+        "ph": 5.29,
+        "created_at": "2025-11-11 22:22:07"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 418,
+        "ph": 4.8,
+        "created_at": "2025-11-11 22:22:13"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 418,
+        "ph": 5.41,
+        "created_at": "2025-11-11 22:22:21"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 413,
+        "ph": 5.73,
+        "created_at": "2025-11-11 22:22:26"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 413,
+        "ph": 5.35,
+        "created_at": "2025-11-11 22:22:32"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 413,
+        "ph": 5.45,
+        "created_at": "2025-11-11 22:22:36"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 411,
+        "ph": 5.19,
+        "created_at": "2025-11-11 22:22:42"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 412,
+        "ph": 5.41,
+        "created_at": "2025-11-11 22:22:47"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 418,
+        "ph": 4.79,
+        "created_at": "2025-11-11 22:22:54"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 435,
+        "ph": 4.86,
+        "created_at": "2025-11-11 22:22:58"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 430,
+        "ph": 5.05,
+        "created_at": "2025-11-11 22:23:03"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 423,
+        "ph": 4.9,
+        "created_at": "2025-11-11 22:23:11"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 419,
+        "ph": 5.14,
+        "created_at": "2025-11-11 22:23:14"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 430,
+        "ph": 4.85,
+        "created_at": "2025-11-11 22:23:19"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 427,
+        "ph": 4.47,
+        "created_at": "2025-11-11 22:23:24"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 429,
+        "ph": 4.95,
+        "created_at": "2025-11-11 22:23:33"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 427,
+        "ph": 4.86,
+        "created_at": "2025-11-11 22:23:38"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 427,
+        "ph": 4.27,
+        "created_at": "2025-11-11 22:23:43"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 433,
+        "ph": 4.71,
+        "created_at": "2025-11-11 22:23:48"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 561,
+        "ph": 4.56,
+        "created_at": "2025-11-11 22:23:55"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 306,
+        "ph": 4.7,
+        "created_at": "2025-11-11 22:24:00"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 354,
+        "ph": 4.68,
+        "created_at": "2025-11-11 22:24:04"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 701,
+        "ph": 4.88,
+        "created_at": "2025-11-11 22:24:15"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 314,
+        "ph": 4.79,
+        "created_at": "2025-11-11 22:24:23"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 315,
+        "ph": 4.51,
+        "created_at": "2025-11-11 22:24:24"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 327,
+        "ph": 5.19,
+        "created_at": "2025-11-11 22:24:30"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 318,
+        "ph": 5.38,
+        "created_at": "2025-11-11 22:24:35"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 318,
+        "ph": 5.46,
+        "created_at": "2025-11-11 22:24:40"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 320,
+        "ph": 5.24,
+        "created_at": "2025-11-11 22:24:46"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 313,
+        "ph": 4.98,
+        "created_at": "2025-11-11 22:24:54"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 317,
+        "ph": 4.53,
+        "created_at": "2025-11-11 22:25:04"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 315,
+        "ph": 4.7,
+        "created_at": "2025-11-11 22:25:07"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 314,
+        "ph": 4.54,
+        "created_at": "2025-11-11 22:25:10"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 313,
+        "ph": 4.88,
+        "created_at": "2025-11-11 22:25:15"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 306,
+        "ph": 4.51,
+        "created_at": "2025-11-11 22:25:26"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 308,
+        "ph": 5.02,
+        "created_at": "2025-11-11 22:25:29"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 310,
+        "ph": 4.78,
+        "created_at": "2025-11-11 22:25:38"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 306,
+        "ph": 4.88,
+        "created_at": "2025-11-11 22:25:44"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 307,
+        "ph": 4.66,
+        "created_at": "2025-11-11 22:25:49"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 323,
+        "ph": 4.74,
+        "created_at": "2025-11-11 22:25:54"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 320,
+        "ph": 4.51,
+        "created_at": "2025-11-11 22:26:00"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 319,
+        "ph": 4.95,
+        "created_at": "2025-11-11 22:26:05"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 315,
+        "ph": 5.05,
+        "created_at": "2025-11-11 22:26:10"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 315,
+        "ph": 4.99,
+        "created_at": "2025-11-11 22:26:15"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 314,
+        "ph": 5.01,
+        "created_at": "2025-11-11 22:26:20"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 311,
+        "ph": 4.53,
+        "created_at": "2025-11-11 22:26:25"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 314,
+        "ph": 4.74,
+        "created_at": "2025-11-11 22:26:34"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 313,
+        "ph": 4.56,
+        "created_at": "2025-11-11 22:26:39"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 312,
+        "ph": 4.51,
+        "created_at": "2025-11-11 22:26:44"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 314,
+        "ph": 4.87,
+        "created_at": "2025-11-11 22:26:49"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 310,
+        "ph": 4.94,
+        "created_at": "2025-11-11 22:26:54"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 310,
+        "ph": 4.5,
+        "created_at": "2025-11-11 22:27:00"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 309,
+        "ph": 4.93,
+        "created_at": "2025-11-11 22:27:05"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 305,
+        "ph": 5.08,
+        "created_at": "2025-11-11 22:27:10"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 305,
+        "ph": 5.15,
+        "created_at": "2025-11-11 22:27:15"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 299,
+        "ph": 5.37,
+        "created_at": "2025-11-11 22:27:20"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 305,
+        "ph": 5.46,
+        "created_at": "2025-11-11 22:27:30"
+    },
+    {
+        "temperature": 60.1,
+        "humidity": 98,
+        "gas": 303,
+        "ph": 5.33,
+        "created_at": "2025-11-11 22:27:44"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 304,
+        "ph": 5.42,
+        "created_at": "2025-11-11 22:27:49"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 304,
+        "ph": 5.6,
+        "created_at": "2025-11-11 22:27:56"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 306,
+        "ph": 5.55,
+        "created_at": "2025-11-11 22:28:00"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 304,
+        "ph": 5.54,
+        "created_at": "2025-11-11 22:28:06"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 304,
+        "ph": 5.26,
+        "created_at": "2025-11-11 22:28:11"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 304,
+        "ph": 5.1,
+        "created_at": "2025-11-11 22:28:17"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 302,
+        "ph": 5.53,
+        "created_at": "2025-11-11 22:28:22"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 303,
+        "ph": 5.49,
+        "created_at": "2025-11-11 22:28:27"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 303,
+        "ph": 5.33,
+        "created_at": "2025-11-11 22:28:33"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 334,
+        "ph": 5.55,
+        "created_at": "2025-11-11 22:28:42"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 365,
+        "ph": 5.24,
+        "created_at": "2025-11-11 22:28:43"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 373,
+        "ph": 5.42,
+        "created_at": "2025-11-11 22:28:48"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 377,
+        "ph": 5.29,
+        "created_at": "2025-11-11 22:28:54"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 381,
+        "ph": 5.38,
+        "created_at": "2025-11-11 22:29:04"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 369,
+        "ph": 5.42,
+        "created_at": "2025-11-11 22:29:12"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 400,
+        "ph": 5.49,
+        "created_at": "2025-11-11 22:29:16"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 418,
+        "ph": 5.58,
+        "created_at": "2025-11-11 22:29:22"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 433,
+        "ph": 4.96,
+        "created_at": "2025-11-11 22:29:26"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 428,
+        "ph": 5.53,
+        "created_at": "2025-11-11 22:29:31"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 446,
+        "ph": 5.73,
+        "created_at": "2025-11-11 22:29:37"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 527,
+        "ph": 5.05,
+        "created_at": "2025-11-11 22:29:44"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 561,
+        "ph": 5.19,
+        "created_at": "2025-11-11 22:29:47"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 565,
+        "ph": 5.33,
+        "created_at": "2025-11-11 22:29:52"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 605,
+        "ph": 5.5,
+        "created_at": "2025-11-11 22:29:58"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 639,
+        "ph": 5.2,
+        "created_at": "2025-11-11 22:30:04"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 624,
+        "ph": 4.87,
+        "created_at": "2025-11-11 22:30:11"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 621,
+        "ph": 5.14,
+        "created_at": "2025-11-11 22:30:14"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 615,
+        "ph": 4.83,
+        "created_at": "2025-11-11 22:30:19"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 615,
+        "ph": 4.6,
+        "created_at": "2025-11-11 22:30:25"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 684,
+        "ph": 4.79,
+        "created_at": "2025-11-11 22:30:30"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1135,
+        "ph": 5.1,
+        "created_at": "2025-11-11 22:30:36"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1373,
+        "ph": 4.99,
+        "created_at": "2025-11-11 22:30:42"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1326,
+        "ph": 4.7,
+        "created_at": "2025-11-11 22:30:46"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1227,
+        "ph": 4.85,
+        "created_at": "2025-11-11 22:30:52"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1153,
+        "ph": 4.56,
+        "created_at": "2025-11-11 22:30:58"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1106,
+        "ph": 4.87,
+        "created_at": "2025-11-11 22:31:02"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1066,
+        "ph": 4.96,
+        "created_at": "2025-11-11 22:31:08"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 1023,
+        "ph": 5.06,
+        "created_at": "2025-11-11 22:31:13"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 990,
+        "ph": 4.97,
+        "created_at": "2025-11-11 22:31:18"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 881,
+        "ph": 5.05,
+        "created_at": "2025-11-11 22:31:44"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 867,
+        "ph": 4.85,
+        "created_at": "2025-11-11 22:31:49"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 851,
+        "ph": 4.65,
+        "created_at": "2025-11-11 22:31:54"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 838,
+        "ph": 5.02,
+        "created_at": "2025-11-11 22:31:59"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 825,
+        "ph": 4.71,
+        "created_at": "2025-11-11 22:32:06"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 814,
+        "ph": 4.51,
+        "created_at": "2025-11-11 22:32:11"
+    },
+    {
+        "temperature": -99,
+        "humidity": -1,
+        "gas": 789,
+        "ph": 4.25,
+        "created_at": "2025-11-11 22:32:21"
+    }
+]
